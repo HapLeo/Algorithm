@@ -19,6 +19,7 @@ public class ReverseInt {
             if (rev < Integer.MIN_VALUE / 10 || rev == Integer.MIN_VALUE && pop < Integer.MIN_VALUE % 10)
                 return 0;
             rev = rev * 10 + pop;
+
         }
         return rev;
     }
