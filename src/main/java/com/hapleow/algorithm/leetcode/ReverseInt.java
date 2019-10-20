@@ -1,4 +1,4 @@
-package com.hapleow.algorithm.code;
+package com.hapleow.algorithm.leetcode;
 
 /**
  * 反转一个整数，如果超出范围则返回0
